@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import "./tailwind.output.css";
 
 export default function App() {
   const [showModal, setShowModal] = useState(true);
